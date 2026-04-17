@@ -1,2 +1,17 @@
-# flutter-chat-app
-This is a real-time chat application developed using Flutter.  The app uses Riverpod for efficient and scalable state management,  and Supabase as the backend for authentication and real-time messaging.  It allows users to send and receive messages instantly with a smooth and responsive UI.
+# chatapp
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
